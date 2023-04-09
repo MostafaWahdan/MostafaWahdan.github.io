@@ -1,0 +1,26 @@
+{
+  "name": "mostafawahdan.github.io",
+  "version": "1.0.0",
+  "description": "Resume",
+  "main": "index.js",
+  "scripts": {
+    "test": "npm install --save-dev resume-cli jsonresume-theme-kendall"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/MostafaWahdan/MostafaWahdan.github.io.git"
+  },
+  "keywords": [
+    "resume"
+  ],
+  "author": "Mostafa Wahdan",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/MostafaWahdan/MostafaWahdan.github.io/issues"
+  },
+  "homepage": "https://github.com/MostafaWahdan/MostafaWahdan.github.io#readme",
+  "devDependencies": {
+    "jsonresume-theme-kendall": "^0.2.0",
+    "resume-cli": "^3.0.0"
+  }
+}

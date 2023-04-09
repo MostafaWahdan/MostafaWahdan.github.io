@@ -1,0 +1,230 @@
+{
+  "$schema": "https://raw.githubusercontent.com/jsonresume/resume-schema/v1.0.0/schema.json",
+  "basics": {
+    "name": "Mostafa Wahdan",
+    "label": "Senior Technical Recruiter",
+    "image": "https://en.gravatar.com/userimage/210466786/126b398ceeedc812639ac6cdc6830f8a?size=256",
+    "email": "moehabdan@gmail.com",
+    "phone": "+20 100 839 5408",
+    "url": "mostafawahdan.github.io/portfolio",
+    "summary": "Senior Technical Recruiter with 4+ years of experience in full-cycle recruitment. Recruiting for different levels up to senior management and across different countries in EMEA.",
+    "location": {
+      "countryCode": "EG",
+      "address": "Egypt"
+    },
+    "profiles": [
+      {
+        "network": "LinkedIn",
+        "username": "Mostafa Wahdan",
+        "url": "https://www.linkedin.com/in/mostafawahdan/"
+      }
+    ]
+  },
+  "work": [
+    {
+      "name": "VMware",
+      "position": "Senior Talent Advisor, EMEA",
+      "startDate": "2023-02-04",
+      "highlights": [
+		  "Implemented a comprehensive end-to-end recruitment strategy that enabled closing 27 positions in less than 60 days, 33% less than the average TTF, while maintaining a 23% higher than average retention rate for new hires to VMware Professional Services Center of Engineering.",
+		  "Optimised the GO-Hire model and established sourcing channels which resulted in a 20% increase in qualified candidate pool size within my first 5 months at VMware.",
+		  "Mentored more junior colleagues and collaborated with sourcers to build talent pipelines."
+	  ],
+      "url": "https://www.linkedin.com/company/vmware/",
+      "location": "Remote, Egypt"
+    },
+    {
+      "name": "VMware",
+      "position": "Talent Advisor, EMEA",
+      "startDate": "2022-05-15",
+      "endDate": "2023-02-03",
+      "highlights": [
+		  "Strategized with hiring managers to maintain diversity, speed, and quality by sharing market insights and trends and building a targeted outreach strategy resulting in 40%+ response rate and 70%+ interest rate.",
+      "Interviewed potential candidates to learn more about their motivations, skills, interests, and expectations, pitched job offers to successful candidates and finalised offer negotiations with a focus on maintaining internal equity."
+	  ],
+      "url": "https://www.linkedin.com/company/vmware/",
+      "location": "Remote, Egypt"
+    },
+    {
+      "name": "Vodafone Intellignet Solutions, _VOIS",
+      "position": "Technical Talent Acquisition Partner",
+      "startDate": "2021-08-01",
+      "endDate": "2022-05-14",
+      "highlights": [
+		  "Closed 25+ requisitions per month for Technology Enterprise Solutions & Application Development.",
+		  "Conducted Competency-Based Interviews and offered candidates while maintaining internal equity."
+	  ],
+      "url": "https://www.linkedin.com/company/vois/",
+      "location": "Remote, Egypt"
+    },
+    {
+      "name": "Vodafone Intellignet Solutions, _VOIS",
+      "position": "Talent Acquisition Partner",
+      "startDate": "2019-10-01",
+      "endDate": "2021-07-31",
+      "highlights": [
+		  "Recruited up to 200 new hires monthly for Vodafone UK contact centre, through different sourcing channels, including direct hire and agency, and conducted final interviews, offered, and oriented accepted candidates, helping scale-up and grow the business at a fast pace.",
+		  "Tracked and benchmarked performance metrics of external recruitment firms, negotiated contractual agreements, and managed supplier relationships to ensure compliance with policies."
+	  ],
+      "url": "https://www.linkedin.com/company/vois/",
+      "location": "Remote, Egypt"
+    },
+    {
+      "name": "Vodafone Intellignet Solutions, _VOIS",
+      "position": "Talent Acquisition Coordinator",
+      "startDate": "2019-03-01",
+      "endDate": "2019-09-31",
+      "highlights": [
+		  "Sourced, screened, and delivered 15+ hires per month for Vodafone UK, with a 100% quality hire rate."
+	  ],
+      "url": "https://www.linkedin.com/company/vois/",
+      "location": "Remote, Egypt"
+    },
+    {
+      "name": "Vodafone Intellignet Solutions, _VOIS",
+      "position": "Customer Cared Advisor",
+      "startDate": "2017-09-03",
+      "endDate": "2019-02-28",
+      "highlights": [
+		  "Delivered solution-driven customer support to more than 100 customers daily, receiving an 85% satisfaction rate, 30% higher than average."
+	  ],
+      "url": "https://www.linkedin.com/company/vois/",
+      "location": "Remote, Egypt"
+    }
+  ],
+  "education": [
+    {
+      "institution": "Faculty of Engineering",
+      "area": "Mechanical Engineering",
+      "studyType": "BSc.",
+      "startDate": "2012-09-15",
+      "endDate": "2017-07-20"
+    },
+    {
+      "institution": "Udacity",
+      "url": "https://graduation.udacity.com/confirm/AT5AZLQ9",
+      "area": "Advance Data Analyis",
+      "studyType": "Nanodegree Program",
+      "startDate": "2020-03-31",
+      "endDate": "2020-09-31",
+      "courses": ["Data Exploration", "Practical Statistics", "A/B Testing", "Data Visualization", "Data Wrangling"]
+    }
+  ],
+  "certificates": [
+    {
+      "name": "McKinsey Forward Program",
+      "issuer": "McKinsey & Company",
+      "startDate": "2022-09-15",
+      "url": "https://www.credly.com/badges/00544d00-919a-4ab5-a070-d6f15db190b7/"
+    },
+    {
+      "name": "OKR Coach Certificate",
+      "issuer": "Results Foundry at Workboard",
+      "startDate": "2022-08-20",
+      "url": "https://verify.skilljar.com/c/f2jif8q9wzfq"
+    },
+    {
+      "name": "Beamery Talent Acquisition for Recruiter Certification",
+      "issuer": "Beamery",
+      "startDate": "2022-07-27",
+      "url": "https://verify.skilljar.com/c/piy7irq4inme"
+    },
+    {
+      "name": "VMware SaaS Essentials",
+      "issuer": "VMware",
+      "startDate": "2022-07-10",
+      "url": "https://www.credly.com/badges/f3b0ebad-5680-4954-88fe-97dc9c47ec06"
+    },
+    {
+      "name": "Employer Branding to Attract Talent",
+      "issuer": "HRCI",
+      "startDate": "2021-02-15",
+      "url": "https://drive.google.com/file/d/1B2KngYAkTDAMDaG5eDnE6Qu4261Dui1s/"
+    }
+  ],
+  "skills": [
+	{
+      "name": "Sourcing",
+	  "keywords": [
+		  "Boolean Search",
+      "Diversity Sourcing",
+      "LinkedIn Recruiter",
+		  "SeekOut",
+		  "Google X-Ray",
+      "GitHub",
+		  "Meetup"
+	  ]
+	},
+	{
+		"name": "Reporting",
+		"keywords": [
+			"Excel Power Query",
+			"Power BI",
+			"Power Automate"
+		]
+	},
+	{
+		"name": "ATS",
+		"keywords": [
+			"Workday",
+			"SuccessFactors"
+		]
+	},
+	{
+		"name": "CRM",
+		"keywords": [
+			"Beamery",
+			"Eightfold"
+		]
+	},
+	{
+		"name": "Others",
+		"keywords": [
+			"Competency-Based Interviewing",
+      "Recruitment Email Marketing",
+			"Stakeholder Management",
+      "Critical Thinking",
+      "Negotiation",
+      "Presentation"
+		]
+	}
+  ],
+  "languages": [
+    {
+      "language": "English",
+      "fluency": "Fluent"
+    },
+    {
+      "language": "Arabic",
+      "fluency": "Native"
+    },
+    {
+      "language": "Italian",
+      "fluency": "Intermediate"
+    }
+  ],
+  "interests": [
+    {
+      "name": "Reading",
+      "keywords": []
+    },
+    {
+      "name": "Calisthenics",
+      "keywords": []
+    },
+    {
+      "name": "Free Diving",
+      "keywords": []
+    },
+    {
+      "name": "Chess",
+      "keywords": []
+    }
+  ],
+  
+  "meta": {
+    "canonical": "https://raw.githubusercontent.com/jsonresume/resume-schema/master/resume.json",
+    "version": "v1.0.0",
+    "lastModified": "2017-12-24T15:53:00"
+  }
+}
